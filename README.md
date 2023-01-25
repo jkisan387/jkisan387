@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jogeswar Kisan.
-- 👨‍💻 Currently pursuing B.Tech degree at NIT Rourkela in Coumputer Science and Engineering.
+- 👨‍💻 Currently pursuing B.Tech degree from NIT Rourkela in Coumputer Science and Engineering.
 - 👀 I’m interested in Web Development, Cyber Security and Ethical Hacking. 
 - 🌱 I’m currently learning Web Development.
 <!-- - 💞️ I’m looking to collaborate on ... -->
